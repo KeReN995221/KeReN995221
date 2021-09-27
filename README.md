@@ -1,0 +1,11 @@
+-- 👋 Hi, I'm @ KeReN995221
+- 👀 I'm interested in getting to know the technological world better
+- 🌱 I'm currently learning python
+- 💞️ I'm looking to collaborate in the technological world
+- 📫 How to reach me by e-mail cardosokerenapuque@gmail.com
+
+<! ---
+KeReN995221 / KeReN995221 is a ✨ special ✨ repository because its `README.md` (this file) appears in your GitHub profile.
+You can click the Preview link to see your changes.
+--->
+
